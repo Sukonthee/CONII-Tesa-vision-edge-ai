@@ -84,3 +84,5 @@ You can follow more details in [DEEPCRAFT&trade;](https://developer.imagimob.com
 1. create project using object detection template in DEEPCRAFT Studio
 
 ![sensor](images/object-1.png)
+
+And you can also follow the same step as sensor data collection. 
