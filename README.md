@@ -61,7 +61,7 @@ DEEPCRAFT Studio | [Link;](https://developer.imagimob.com/deepcraft-studio/insta
 
 ## Step 2: AI Model creation on DEEPCRAFT Studio
 
-1. Project creation on DEEPCRAFT Studio
+### 1. Project creation on DEEPCRAFT Studio
 - Open DEEPCRAFT&trade; Studio.
 - New Projects
 - Select Templates
@@ -70,7 +70,10 @@ DEEPCRAFT Studio | [Link;](https://developer.imagimob.com/deepcraft-studio/insta
 
 You can follow more details in [DEEPCRAFT&trade;](https://developer.imagimob.com/deepcraft-studio/getting-started/starter-models-project-templates/project-template) documentation hub.
 
-2. Data Collection on DEEPCRAFT Studio
+### 2. Data Collection on DEEPCRAFT Studio
+
+![object2](images/object-2.png)
+
 - Sensor Data Collection
 
 ![sensor](images/sensor.png)
@@ -83,6 +86,22 @@ You can follow more details in [DEEPCRAFT&trade;](https://developer.imagimob.com
 
 1. create project using object detection template in DEEPCRAFT Studio
 
-![sensor](images/object-1.png)
+![object1](images/object-1.png)
 
-And you can also follow the same step as sensor data collection. 
+And you can also follow the same step as sensor data collection
+
+
+
+
+### 3. Data Annotation on DEEPCRAFT Studio
+- Sensor Data Annotation
+
+here is supported sensor/sound formats - [Link;](https://developer.imagimob.com/deepcraft-studio/data-preparation/bring-your-data/bring-your-own-data)
+
+![object3](images/object-3.png)
+
+- Image Data Annotation
+
+here is supported Image formats - [Link;](https://developer.imagimob.com/deepcraft-studio/data-preparation/bring-your-data/bring-your-own-data-object-detection)
+
+![object4](images/object-4.png)
