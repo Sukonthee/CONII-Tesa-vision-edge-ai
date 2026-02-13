@@ -70,3 +70,17 @@ DEEPCRAFT Studio | [Link;](https://developer.imagimob.com/deepcraft-studio/insta
 
 You can follow more details in [DEEPCRAFT&trade;](https://developer.imagimob.com/deepcraft-studio/getting-started/starter-models-project-templates/project-template) documentation hub.
 
+2. Data Collection on DEEPCRAFT Studio
+- Sensor Data Collection
+
+![sensor](images/sensor.png)
+
+You can follow more details in [DEEPCRAFT&trade;](https://developer.imagimob.com/deepcraft-studio/data-preparation) documentation hub.
+
+- Image Data Collection
+
+![sensor](images/image.png)
+
+1. create project using object detection template in DEEPCRAFT Studio
+
+![sensor](images/object-1.png)
