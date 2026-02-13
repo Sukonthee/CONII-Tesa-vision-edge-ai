@@ -66,7 +66,7 @@ DEEPCRAFT Studio | [Link;](https://developer.imagimob.com/deepcraft-studio/insta
 - New Projects
 - Select Templates
 
-![Project]https://developer.imagimob.com/Images/ai-kit/img-37.png
+![Project](https://developer.imagimob.com/Images/ai-kit/img-37.png)
 
 You can follow more details in [DEEPCRAFT&trade;](https://developer.imagimob.com/deepcraft-studio/getting-started/starter-models-project-templates/project-template) documentation hub.
 
