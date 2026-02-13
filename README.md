@@ -55,3 +55,6 @@ ModusToolbox&trade; | [Link;](https://www.infineon.com/design-resources/developm
 DEEPCRAFT Studio | [Link;](https://developer.imagimob.com/deepcraft-studio/install-download-studio)
 
 ![ModusToolbox](images/modustoolbox.png)
+**Figure 1:** ModusToolbox development environment for embedded system application design.
+![DEEPCRAFT](images/deepcraft.png)
+**Figure 2:** DEEPCRAFT Studio interface for AI model creation, training, and deployment.
