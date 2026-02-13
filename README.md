@@ -136,4 +136,21 @@ You can generate optimized code for a number of different targets. And you can f
 
 ![object8](images/object-8.png)
 
+The result from code generation contains 2 files.
+```
+model.h
+model.c
+```
+![object9](images/object-9.png)
+
+
+## Step 4: Build and deploy a model to the board
+
+For general information about how the [Eclipse IDE for ModusToolbox™](https://www.infineon.com/assets/row/public/documents/30/44/infineon-modustoolbox-eclipse-ide-user-guide-usermanual-en.pdf?fileId=8ac78c8c8929aa4d0189bd07dd6113f9) creates and implements projects, build and deploy.
+
+1. create new application
+2. build application
+3. Modify some code (If using a custom model, which is not the sample in Modus Toolbox.)
+3. deploy application
+
 
