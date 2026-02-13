@@ -40,9 +40,18 @@ MTB HAL – Hardware abstraction layer
 
 
 #  Steps
-1. fdfdfd
-2. fdsfdsfsf
-3. sdfsdfsdfsdf
-4. gdfgfdggfddgf
+1. ModusToolbox&trade; and DEEPCRAFT Studio installation
+2. AI Model creation on DEEPCRAFT Studio
+3. Code generatation for porting a model to the board
+4. Build and deploy a model to the board
 
-# Document history
+
+## Step 1: ModusToolbox&trade; and DEEPCRAFT Studio installation
+
+link to download ModusToolbox&trade; and DEEPCRAFT Studio
+Resources  | Links
+-----------|----------------------------------
+ModusToolbox&trade; | [Link;](https://www.infineon.com/design-resources/development-tools/sdk/modustoolbox-software?uid=ci44510001&aid=ai4451&gclsrc=aw.ds&gad_source=1&gad_campaignid=21544549833&gbraid=0AAAAADpmf9eCeVKpUbj7qFToHJWQoXqjv&gclid=CjwKCAiAkbbMBhB2EiwANbxtbUcjLVxQyMXbMPO-9CEml5x8BNMwZ_sYdUzpfT8vvO2c3bHPpmn71RoCUbsQAvD_BwE)
+DEEPCRAFT Studio | [Link;](https://developer.imagimob.com/deepcraft-studio/install-download-studio)
+
+![ModusToolbox](images\modustoolbox.png)
