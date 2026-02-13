@@ -94,14 +94,23 @@ And you can also follow the same step as sensor data collection
 
 
 ### 3. Data Annotation on DEEPCRAFT Studio
+
+In the data annotation mode, DEEPCRAFT Studio contains details in [documentation guide](https://developer.imagimob.com/deepcraft-studio/data-preparation/data-labeling) for following with more details.
+
 - Sensor Data Annotation
 
-here is supported sensor/sound formats - [Link;](https://developer.imagimob.com/deepcraft-studio/data-preparation/bring-your-data/bring-your-own-data)
+here is supported sensor/sound formats - [Link](https://developer.imagimob.com/deepcraft-studio/data-preparation/bring-your-data/bring-your-own-data)
 
 ![object3](images/object-3.png)
 
 - Image Data Annotation
 
-here is supported Image formats - [Link;](https://developer.imagimob.com/deepcraft-studio/data-preparation/bring-your-data/bring-your-own-data-object-detection)
+here is supported Image formats - [Link](https://developer.imagimob.com/deepcraft-studio/data-preparation/bring-your-data/bring-your-own-data-object-detection)
 
 ![object4](images/object-4.png)
+
+- Data Distribution (After compelete data annotation)
+
+![object3](images/object-5.png)
+
+You can follow more details in [DEEPCRAFT&trade;](https://developer.imagimob.com/deepcraft-studio/data-preparation/data-distribution) documentation hub.
