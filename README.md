@@ -58,3 +58,15 @@ DEEPCRAFT Studio | [Link;](https://developer.imagimob.com/deepcraft-studio/insta
 **Figure 1:** ModusToolbox development environment for embedded system application design.
 ![DEEPCRAFT](images/deepcraft.png)
 **Figure 2:** DEEPCRAFT Studio interface for AI model creation, training, and deployment.
+
+## Step 2: AI Model creation on DEEPCRAFT Studio
+
+1. Project creation on DEEPCRAFT Studio
+- Open DEEPCRAFT&trade; Studio.
+- New Projects
+- Select Templates
+
+![Project]https://developer.imagimob.com/Images/ai-kit/img-37.png
+
+You can follow more details in [DEEPCRAFT&trade;](https://developer.imagimob.com/deepcraft-studio/getting-started/starter-models-project-templates/project-template) documentation hub.
+
