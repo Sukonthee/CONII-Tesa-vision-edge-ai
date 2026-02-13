@@ -25,12 +25,18 @@ retarget-io v1.9.0 – UART debug output
 FreeRTOS v10.6.202 – Real-time operating system
 MTB HAL – Hardware abstraction layer
 
+# Supported kits (make variable 'TARGET')
+
+- [PSOC&trade; Edge E84 Evaluation Kit](https://www.infineon.com/KIT_PSE84_EVAL) (`KIT_PSE84_EVAL_EPC2`) – Default value of `TARGET` (tested)
+- [PSOC&trade; Edge E84 Evaluation Kit](https://www.infineon.com/KIT_PSE84_EVAL) (`KIT_PSE84_EVAL_EPC4`)
+- [PSOC&trade; Edge E84 AI Kit](https://www.infineon.com/KIT_PSE84_AI) (`KIT_PSE84_AI`)
+
 
 # Learning Outcomes
-1. fgfdgdfgdfg47
-2. gfdgfdgdfgdgd
-3. dgdfgfdgdfgg
-4. fdgfdgdfgdfgd
+1. Learn and understand how to create and use tools with ModusToolbox and DEEPCRAFT Studio.
+2. Understand the principles of building AI models using DEEPCRAFT Studio.
+3. Be able to build custom AI models on DEEPCRAFT Studio.
+4. Be able to deploy custom models to hardware boards and execute on-device inference using DEEPCRAFT Studio.
 
 
 #  Steps
