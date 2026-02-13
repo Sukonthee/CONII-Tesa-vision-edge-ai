@@ -128,7 +128,7 @@ After you download the successfully trained model, you can verify results in DEE
 
 This sample showed the result of image/video object detection. 
 
-### 3. Code generatation for porting a model to the board
+## Step 3: Code generatation for porting a model to the board
 
 After training and evaluating a model, the subsequent step is code generation. This involves converting the assessed model into executable code, which can be further optimized and deployed on edge devices. By generating the code, the logic and functionality of the model are precisely captured, facilitating the next phases of development.
 
