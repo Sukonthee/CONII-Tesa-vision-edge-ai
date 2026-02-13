@@ -91,8 +91,6 @@ You can follow more details in [DEEPCRAFT&trade;](https://developer.imagimob.com
 And you can also follow the same step as sensor data collection
 
 
-
-
 ### 3. Data Annotation on DEEPCRAFT Studio
 
 In the data annotation mode, DEEPCRAFT Studio contains details in [documentation guide](https://developer.imagimob.com/deepcraft-studio/data-preparation/data-labeling) for following with more details.
@@ -111,6 +109,23 @@ here is supported Image formats - [Link](https://developer.imagimob.com/deepcraf
 
 - Data Distribution (After compelete data annotation)
 
-![object3](images/object-5.png)
+![object5](images/object-5.png)
 
 You can follow more details in [DEEPCRAFT&trade;](https://developer.imagimob.com/deepcraft-studio/data-preparation/data-distribution) documentation hub.
+
+
+### 4. Model Training on DEEPCRAFT Studio
+
+This section provides comprehensive information on various methods to generate the model, how to initiate and monitor the training job, and the steps to download the model files from the Imagimob Cloud. And you can follow step by step in [the documentation guide](https://developer.imagimob.com/deepcraft-studio/model-training).
+
+![object6](images/object-6.png)
+
+### 5. Testing Model on DEEPCRAFT Studio
+
+After you download the successfully trained model, you can verify results in DEEPCRAFT Studio.
+
+![object7](images/object-7.png)
+
+This sample showed the result of image/video object detection. 
+
+
