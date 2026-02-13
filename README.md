@@ -5,12 +5,12 @@ A Hands-On Tutorial for generating custom models on an embedded board
 
 #  Related resources
 
-| Resources | Links |
-| --- | --- |
-| Development kits | 	PSOC™ Edge E84 Evaluation Kit |
-                   |    PSOC™ Edge E84 AI Kit |
-| Device documentation | Show file differences that haven't been staged |
-| Tools | Show file differences that haven't been staged |
+Resources  | Links
+-----------|----------------------------------
+Device documentation | [PSOC&trade; Edge MCU datasheets](https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/32-bit-psoc-edge-arm#documents) <br> [PSOC&trade; Edge MCU reference manuals](https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/32-bit-psoc-edge-arm#documents)
+Development kits | [PSOC&trade; Edge E84 Evaluation Kit](https://www.infineon.com/KIT_PSE84_EVAL) <br> [PSOC&trade; Edge E84 AI Kit](https://www.infineon.com/KIT_PSE84_AI)
+Libraries  | [mtb-dsl-pse8xxgp](https://github.com/Infineon/mtb-dsl-pse8xxgp) – Device support library for PSE8XXGP <br> [retarget-io](https://github.com/Infineon/retarget-io) – UART debug output <br> [abstraction-rtos](https://github.com/Infineon/abstraction-rtos) – FreeRTOS abstraction layer
+Tools  | [ModusToolbox&trade;](https://www.infineon.com/modustoolbox) – ModusToolbox&trade; software is a collection of easy-to-use libraries and tools enabling rapid development with Infineon MCUs <br> [VSCODE;](https://code.visualstudio.com/) - The open source AI code editor
 
 
 # Software setup
