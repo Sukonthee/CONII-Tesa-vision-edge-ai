@@ -148,7 +148,18 @@ model.c
 
 For general information about how the [Eclipse IDE for ModusToolbox™](https://www.infineon.com/assets/row/public/documents/30/44/infineon-modustoolbox-eclipse-ide-user-guide-usermanual-en.pdf?fileId=8ac78c8c8929aa4d0189bd07dd6113f9) creates and implements projects, build and deploy.
 
-1. create new application
+1. create new application (In this repo we usePSOC_Edge_Machine_Learning_DEEPCRAFT_Deploy_Vision)
+```
+1. New Application
+2. Select board kit (for this example we use PSOC Edge BSPs KIT_PSE84_EVAL_EPC2)
+3. Select Project
+4. Create Prokect
+```
+![object10](images/object-10.png)
+
+![object11](images/object-11.png)
+
+
 2. build application
 3. Modify some code (If using a custom model, which is not the sample in Modus Toolbox.)
 3. deploy application
