@@ -68,6 +68,7 @@ DEEPCRAFT Studio | [Link;](https://developer.imagimob.com/deepcraft-studio/insta
 
 ![Project](images/projects.png)
 
+
 You can follow more details in [DEEPCRAFT&trade;](https://developer.imagimob.com/deepcraft-studio/getting-started/starter-models-project-templates/project-template) documentation hub.
 
 ### 2. Data Collection on DEEPCRAFT Studio
@@ -161,7 +162,31 @@ For general information about how the [Eclipse IDE for ModusToolbox™](https://
 
 
 2. build application
-3. Modify some code (If using a custom model, which is not the sample in Modus Toolbox.)
-3. deploy application
+
+![object12](images/object-12.png)
+
+![object13](images/object-13.png)
+
+3. Modify some code (If using a custom model, which is not the sample in ModusToolbox.)
+
+In the subfolder PSOC_Edge_Machine_Learning_DEEPCRAFT_Deploy_Vision.proj_cm55.
+```
+You can modify these files.
+1. main.c -> core program
+2. inference.c -> model inference results
+3. inference.h -> model inference function header
+```
+4. deploy application
+
+![object14](images/object-14.png)
+
+![object15](images/object-15.png)
+
+5. Testing
+
+We use [Tera Term](https://teratermproject.github.io/index-en.html) for monitoring results when the model has process.
+
+![object16](images/object-16.png)
+
 
 
